@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m Raymond Co
 - 🌱 I am a 3rd year student
 - 👯 I am interested in computers
-- 📫 My e-mail address is qrjtco@tip.edu.ph
+- 📫 My email address is qrjtco@tip.edu.ph
 - ⚡ My computer has a Ryzen processor and an Nvidia GPU
 -->
